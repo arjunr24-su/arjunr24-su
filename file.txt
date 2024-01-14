@@ -1,0 +1,4 @@
+nc localhost 1234 < file_.txt
+
+ cat file.txt
+
