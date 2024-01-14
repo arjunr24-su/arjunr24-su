@@ -79,7 +79,15 @@ nslookup google.com
 	nc localhost 1234 < file_.txt
 	cat file.txt
 
+# Reversing challenges flags
+1.
 
+
+
+
+
+2.flag{thisistheflag1lG1lY}
+flag{KnoW_YouR_A5C115}
 
 
 
