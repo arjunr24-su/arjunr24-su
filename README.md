@@ -23,6 +23,6 @@ I'm a final-year Computer Science Engineering student, always curious about the 
 
 #### Connect with Me
 - LinkedIn: [Arjun Rajesh](www.linkedin.com/in/arjun-rajesh-30860728b)
-- Twitter: [@arjunrajesh]([https://twitter.com/arjunrajesh24](https://x.com/ARJUNRAJES10992)https://x.com/ARJUNRAJES10992)
+- Twitter: [@arjunrajesh](https://x.com/ARJUNRAJES10992)
 
-Feel free to explore my repositories, fork projects, and drop a star if you find something interesting! Let's code together! 🌟
+Feel free to explore my repositories, fork projects, and drop a star if you fin  d something interesting! Let's code together! 🌟
