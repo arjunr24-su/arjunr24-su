@@ -1,7 +1,7 @@
 ### Arjun Rajesh | CSE | Techie 👨‍💻
 Hello, world! I'm Arjun, a passionate computer science enthusiast. Here's a glimpse of what you'll find in my GitHub universe:
 #### About Me
-I'm a final-year Computer Science Engineering student, always curious about the latest tech trends. My code journey began with "Hello, World!" and has evolved into a love for algorithms, web development, and open-source contributions.
+I'm a 2nd-year Computer Science Engineering student, always curious about the latest tech trends. My code journey began with "Hello, World!" and has evolved into a love for algorithms, web development, and open-source contributions.
 
 #### Skills
 - **Languages**: Python, Java, JavaScript
